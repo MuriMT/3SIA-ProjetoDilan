@@ -4,3 +4,4 @@
 -Desenhos de engenharia de software 
 -MOdelos de profcessos 
 -Modelos de banco de dados 
+- Reporte de operacoes 
